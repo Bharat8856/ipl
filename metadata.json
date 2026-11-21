@@ -1,0 +1,6 @@
+{
+  "name": "IPL Auction Arena",
+  "description": "Competitive real-time multiplayer IPL Cricket Auction game with server-authoritative bidding, smart squad feasibility, Playing XI optimizer, and AI analyst.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
